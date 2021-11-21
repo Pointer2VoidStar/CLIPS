@@ -1,6 +1,6 @@
 <!-- 
 *** This readme file is based off the fantastic work done by @othneildrew (Best-README-Template). 
-You can check it out here: https://github.com/othneildrew/Best-README-Template
+You can check it out here: https://github.com/Pointer2VoidStar/CLIPS
 ***
 -->
 
@@ -195,15 +195,15 @@ Project Link: [https://github.com/Pointer2VoidStar/CLIPS](https://github.com/Poi
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Pointer2VoidStar/CLIPS.svg?style=for-the-badge
 [contributors-url]: https://github.com/Pointer2VoidStar/CLIPS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Pointer2VoidStar/CLIPS.svg?style=for-the-badge
 [forks-url]: https://github.com/Pointer2VoidStar/CLIPS/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Pointer2VoidStar/CLIPS.svg?style=for-the-badge
 [stars-url]: https://github.com/Pointer2VoidStar/CLIPS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Pointer2VoidStar/CLIPS.svg?style=for-the-badge
 [issues-url]: https://github.com/Pointer2VoidStar/CLIPS/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Pointer2VoidStar/CLIPS.svg?style=for-the-badge
 [license-url]: https://github.com/Pointer2VoidStar/CLIPS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/neil-osborne-58a61024
